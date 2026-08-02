@@ -1,4 +1,4 @@
-trigger build new-wine10-embedding
+1 trigger build new-wine10-embedding
 
 # yabridge
 
