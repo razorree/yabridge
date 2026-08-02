@@ -1,3 +1,5 @@
+trigger build new-wine10-embedding
+
 # yabridge
 
 [![Automated builds](https://github.com/robbert-vdh/yabridge/workflows/Automated%20builds/badge.svg?branch=master&event=push)](https://github.com/robbert-vdh/yabridge/actions?query=workflow%3A%22Automated+builds%22+branch%3Amaster)
